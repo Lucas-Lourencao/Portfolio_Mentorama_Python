@@ -1,4 +1,4 @@
-Portfólio de Tarefas em Python - Curso de Python da Mentorama.
+Portfólio de Tarefas em Python - Curso de Python da Mentorama
 
 Neste projeto está sendo disponibilizado as tarefas de cada módulo do curso de Python da Mentorama.
 
