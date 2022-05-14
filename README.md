@@ -64,3 +64,4 @@ Módulo XI - Tópicos em Machine Learning
 
 
 Até 08.05.2022 foram disponibilizados as tarefas realizadas até o módulo 8 do curso. 
+Até 14.05.2022 foram disponibilizados as tarefas realizadas até o módulo 9 do curso. 
